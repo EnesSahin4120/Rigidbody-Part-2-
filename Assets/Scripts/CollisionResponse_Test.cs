@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class LCR_Test : MonoBehaviour
+public class CollisionResponse_Test : MonoBehaviour
 {
     [SerializeField] private Sphere ball1;
     [SerializeField] private Sphere ball2;

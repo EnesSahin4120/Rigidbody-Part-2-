@@ -440,7 +440,7 @@ GameObject:
   - component: {fileID: 2094160225}
   - component: {fileID: 2094160224}
   m_Layer: 0
-  m_Name: LCR_Test
+  m_Name: CollisionResponse_Test
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

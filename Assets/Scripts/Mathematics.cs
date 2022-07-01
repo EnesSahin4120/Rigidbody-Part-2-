@@ -22,11 +22,6 @@ public class Mathematics : MonoBehaviour
         return length;
     }
 
-    static public float HypotenuseLength(float a, float b)
-    {
-        return Mathf.Sqrt(a * a + b * b);
-    }
-
     static public Coordinates Normalize(Coordinates vector)
     {
         float length = VectorLength(vector);
